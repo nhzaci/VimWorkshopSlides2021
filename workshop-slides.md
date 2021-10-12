@@ -61,6 +61,8 @@ date: 2021-10-10
   - Autocompletion with CoC (Conquer of Completion)
   - Asynchronous support (useful for autocomplete)
 
+---
+
 ```
   ____        _     ___   _                                    ___ ____  _____
  | __ ) _   _| |_  |_ _| | | _____   _____   _ __ ___  _   _  |_ _|  _ \| ____|
@@ -101,8 +103,6 @@ date: 2021-10-10
 - I urge you to take it slow, use one or two commands each week until it becomes muscle memory
 - Move onto the next one after you are done!
 - This is how to get better!
-
----
 
 ---
 
