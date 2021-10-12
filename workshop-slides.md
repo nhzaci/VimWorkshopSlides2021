@@ -124,7 +124,7 @@ date: 2021-10-10
 | Insert   | For inserting text                | `i`, `a`, `o`, `I`, `A`, `O` |
 | Command  | For using vim commands            | `:`                          |
 | Terminal | For using running unix commands   | `:terminal`, `:ter`          |
-| Ex       | For running multiple vim commands | `q:`                         |
+| Ex       | For running multiple vim commands | `:q`                         |
 
 (There are 7 more modes but they are mostly extensions of these 6 basic modes)
 
