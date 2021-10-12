@@ -61,27 +61,6 @@ date: 2021-10-10
   - Autocompletion with CoC (Conquer of Completion)
   - Asynchronous support (useful for autocomplete)
 
----
-
-```
-  _____                      _        _   _
- | ____|_  ___ __   ___  ___| |_ __ _| |_(_) ___  _ __  ___
- |  _| \ \/ / '_ \ / _ \/ __| __/ _` | __| |/ _ \| '_ \/ __|
- | |___ >  <| |_) |  __/ (__| || (_| | |_| | (_) | | | \__ \
- |_____/_/\_\ .__/ \___|\___|\__\__,_|\__|_|\___/|_| |_|___/
-            |_|
-```
-
-# What should you expect after today
-
-- This workshop serves to show you what's out there
-- You won't be able to learn all the commands in 1 day
-- I urge you to take it slow, use one or two commands each week until it becomes muscle memory
-- Move onto the next one after you are done!
-- This is how to get better!
-
----
-
 ```
   ____        _     ___   _                                    ___ ____  _____
  | __ ) _   _| |_  |_ _| | | _____   _____   _ __ ___  _   _  |_ _|  _ \| ____|
@@ -103,6 +82,27 @@ date: 2021-10-10
 # IntelliJ
 
 - IdeaVim plugin which is an emulation of Vim
+
+---
+
+```
+  _____                      _        _   _
+ | ____|_  ___ __   ___  ___| |_ __ _| |_(_) ___  _ __  ___
+ |  _| \ \/ / '_ \ / _ \/ __| __/ _` | __| |/ _ \| '_ \/ __|
+ | |___ >  <| |_) |  __/ (__| || (_| | |_| | (_) | | | \__ \
+ |_____/_/\_\ .__/ \___|\___|\__\__,_|\__|_|\___/|_| |_|___/
+            |_|
+```
+
+# What should you expect after today
+
+- This workshop serves to show you what's out there
+- You won't be able to learn all the commands in 1 day
+- I urge you to take it slow, use one or two commands each week until it becomes muscle memory
+- Move onto the next one after you are done!
+- This is how to get better!
+
+---
 
 ---
 
